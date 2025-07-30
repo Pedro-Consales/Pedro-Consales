@@ -4,7 +4,7 @@
 
 <div>
   <a>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Pedro-Consales&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Pedro-Consales&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&"/>
   </a>
   <a>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Consales&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
@@ -30,10 +30,12 @@
 ## About me:
 
 - 💻 Undergraduate in Computer Science (PUC-Rio)
-- 👾 Passionate about Programing
+- 👾 Passionate about Programming
 - 👨🏽‍💻 Software Engineer
 - 🕸️ Web Developer
 
+## Contacts:
 
+- 📫 You can reach me at: pedromarg@outlook.com  
 <br/>
 
