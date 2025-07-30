@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Hi! I am arrudagba
+## Hi there 👋 I am Pedro Consales
 
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-arruda-956ab6303/) -->
 
