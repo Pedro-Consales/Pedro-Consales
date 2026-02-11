@@ -13,9 +13,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Consales&theme=github-dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pedro-Consales&theme=github_dark_dimmed&layout=compact"/>
-</p>
+![Recent Activity](https://github-readme-stats.vercel.app/api/activities?username=Pedro-Consales)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Consales&layout=compact&theme=github_dark_dimmed" />
+
 
 
 <br/>
