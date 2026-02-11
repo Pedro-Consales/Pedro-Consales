@@ -8,10 +8,6 @@
 
 <br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pedro-Consales&show_icons=true&theme=github_dark_dimmed"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Consales&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Consales&theme=github-dark"/>
