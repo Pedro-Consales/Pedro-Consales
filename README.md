@@ -13,6 +13,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Consales&theme=github-dark"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pedro-Consales&theme=github_dark_dimmed&layout=compact"/>
+</p>
+
+
 <br/>
 
 <div align="center">
