@@ -1,10 +1,12 @@
 <h2 align="center">Hi there 👋 I am Pedro Consales</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-consales-922b3b325/">
+  <a href="https://www.linkedin.com/in/pedro-consales-922b3b325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.pedroconsales.dev/)
+ <a href="https://www.pedroconsales.dev/" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)"/>
+  </a>
 </p>
 
 <br/>
